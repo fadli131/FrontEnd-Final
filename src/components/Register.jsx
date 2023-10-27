@@ -80,7 +80,6 @@ function Register() {
                                         onChange={handleChange}
                                     >
                                         <option value="user">User</option>
-                                        <option value="admin">Admin</option>
                                     </select>
                                 </div>
                                 <div className="flex justify-between items-center mb-6">
